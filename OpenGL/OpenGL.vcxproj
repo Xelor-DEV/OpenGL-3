@@ -147,6 +147,7 @@
     <ClCompile Include="BMPTextureLoader.cpp" />
     <ClCompile Include="Camera.cpp" />
     <ClCompile Include="Circulo.cpp" />
+    <ClCompile Include="Color.cpp" />
     <ClCompile Include="Cuadrado.cpp" />
     <ClCompile Include="Cubo.cpp" />
     <ClCompile Include="DirectionalLight.cpp" />
@@ -176,6 +177,7 @@
     <ClInclude Include="BMPTextureLoader.h" />
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Circulo.h" />
+    <ClInclude Include="Color.h" />
     <ClInclude Include="Cuadrado.h" />
     <ClInclude Include="Cubo.h" />
     <ClInclude Include="DirectionalLight.h" />

@@ -18,8 +18,11 @@ class Example6 : public Example
 
 	TextureLoader* _TextureLoader;
 	GLuint texture;
+	GLuint idDisplayList;
 
-	Cuadrado* cuadrado;
+	float n;
+
+	Figura* figura;
 
 public:
 	Example6();
@@ -28,5 +31,4 @@ public:
 	virtual void KeyboardFunc(unsigned char key, int X, int Y)override;
 	virtual void Idle()override;
 	void createDisplayList();
-	void DrawShape();
 };

@@ -10,7 +10,45 @@ Cubo::Cubo(float l) : lado(l)
 
 void Cubo::Draw()
 {
-    glutSolidCube(lado);
+    glBegin(GL_QUADS);
+
+    // Frontal
+    glVertex3f(-lado / 2, -lado / 2, lado / 2);
+    glVertex3f(lado / 2, -lado / 2, lado / 2);
+    glVertex3f(lado / 2, lado / 2, lado / 2);
+    glVertex3f(-lado / 2, lado / 2, lado / 2);
+
+    // Trasero
+    glVertex3f(-lado / 2, -lado / 2, -lado / 2);
+    glVertex3f(-lado / 2, lado / 2, -lado / 2);
+    glVertex3f(lado / 2, lado / 2, -lado / 2);
+    glVertex3f(lado / 2, -lado / 2, -lado / 2);
+
+    // Izquierda
+    glVertex3f(-lado / 2, -lado / 2, -lado / 2);
+    glVertex3f(-lado / 2, -lado / 2, lado / 2);
+    glVertex3f(-lado / 2, lado / 2, lado / 2);
+    glVertex3f(-lado / 2, lado / 2, -lado / 2);
+
+    // Derecha
+    glVertex3f(lado / 2, -lado / 2, -lado / 2);
+    glVertex3f(lado / 2, lado / 2, -lado / 2);
+    glVertex3f(lado / 2, lado / 2, lado / 2);
+    glVertex3f(lado / 2, -lado / 2, lado / 2);
+
+    // Arriba
+    glVertex3f(-lado / 2, lado / 2, -lado / 2);
+    glVertex3f(-lado / 2, lado / 2, lado / 2);
+    glVertex3f(lado / 2, lado / 2, lado / 2);
+    glVertex3f(lado / 2, lado / 2, -lado / 2);
+
+    // Abajo
+    glVertex3f(-lado / 2, -lado / 2, -lado / 2);
+    glVertex3f(lado / 2, -lado / 2, -lado / 2);
+    glVertex3f(lado / 2, -lado / 2, lado / 2);
+    glVertex3f(-lado / 2, -lado / 2, lado / 2);
+
+    glEnd();
 }
 
 float Cubo::calcularVolumen()

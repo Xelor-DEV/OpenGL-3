@@ -19,4 +19,5 @@ public:
 	virtual void Draw()=0;
 	void SetTexture(GLuint idTexture);
 	void SetColor(Color color);
+
 };

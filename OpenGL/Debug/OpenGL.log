@@ -1,0 +1,31 @@
+﻿  BMPTextureLoader.cpp
+  Camera.cpp
+  Circulo.cpp
+  Cuadrado.cpp
+  Cubo.cpp
+  DirectionalLight.cpp
+  Esfera.cpp
+  Example.cpp
+  Example1.cpp
+  Example2.cpp
+  Example3.cpp
+  Example4.cpp
+  Example5.cpp
+  Example6.cpp
+  Figura.cpp
+  Figura2D.cpp
+  Figura3D.cpp
+  Light.cpp
+  OpenGL.cpp
+  Pirámide.cpp
+  Generando código...
+  Compilando...
+  PointLight.cpp
+  Polígono.cpp
+  Punto3D.cpp
+  SpotLight.cpp
+  TextureLoader.cpp
+  Triangulo.cpp
+  Vector3.cpp
+  Generando código...
+  OpenGL.vcxproj -> C:\Users\AMD Ryzen\Desktop\OpenGL-2\Debug\OpenGL.exe

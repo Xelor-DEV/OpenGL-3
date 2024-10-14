@@ -109,6 +109,9 @@
     <Filter Include="Archivos de encabezado\Utility\Figuras\Figuras2D\Triangulo">
       <UniqueIdentifier>{f2d105d7-05a5-4e1f-a1e5-bcec3de74267}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Archivos de origen\XD">
+      <UniqueIdentifier>{0ca6a8cc-9e9e-4ec5-a2b7-1a68a8b4fe11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OpenGL.cpp">
@@ -194,6 +197,9 @@
     </ClCompile>
     <ClCompile Include="Color.cpp">
       <Filter>Archivos de origen\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.cpp">
+      <Filter>Archivos de origen\Example</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -283,6 +289,9 @@
     </ClInclude>
     <ClInclude Include="Color.h">
       <Filter>Archivos de encabezado\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Example7.h">
+      <Filter>Archivos de encabezado\Example</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

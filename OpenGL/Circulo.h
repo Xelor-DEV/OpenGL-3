@@ -7,7 +7,7 @@ private:
     int segmentos;
 
 public:
-    Circulo(float r, int seg = 30);
+    Circulo(float r, int seg);
     void Draw() override;
     float calcularArea() override;
     float calcularPerímetro() override;

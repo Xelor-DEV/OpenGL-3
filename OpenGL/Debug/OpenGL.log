@@ -13,14 +13,26 @@
   Example4.cpp
   Example5.cpp
   Example6.cpp
-C:\Users\AMD Ryzen\Desktop\OpenGL-3\OpenGL\Example6.cpp(36,24): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  Example7.cpp
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(83,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(83,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(83,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(84,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(84,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(84,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(85,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(85,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(85,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(86,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(86,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(86,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   Figura.cpp
   Figura2D.cpp
   Figura3D.cpp
   Light.cpp
-  OpenGL.cpp
   Generando código...
   Compilando...
+  OpenGL.cpp
   Pirámide.cpp
   PointLight.cpp
   Polígono.cpp
@@ -30,4 +42,4 @@ C:\Users\AMD Ryzen\Desktop\OpenGL-3\OpenGL\Example6.cpp(36,24): warning C4244: '
   Triangulo.cpp
   Vector3.cpp
   Generando código...
-  OpenGL.vcxproj -> C:\Users\AMD Ryzen\Desktop\OpenGL-3\Debug\OpenGL.exe
+  OpenGL.vcxproj -> C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\Debug\OpenGL.exe

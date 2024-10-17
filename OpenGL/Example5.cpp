@@ -13,7 +13,7 @@ Example5::Example5()
 
     color = { 1.0f, 1.0f, 0 };
 
-    figura = new Circulo(2);
+    figura = new Circulo(2,30);
 }
 void Example5::init()
 {

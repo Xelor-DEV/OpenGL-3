@@ -109,9 +109,6 @@
     <Filter Include="Archivos de encabezado\Utility\Figuras\Figuras2D\Triangulo">
       <UniqueIdentifier>{f2d105d7-05a5-4e1f-a1e5-bcec3de74267}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Archivos de origen\XD">
-      <UniqueIdentifier>{0ca6a8cc-9e9e-4ec5-a2b7-1a68a8b4fe11}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OpenGL.cpp">

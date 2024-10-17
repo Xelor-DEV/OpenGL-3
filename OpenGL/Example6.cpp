@@ -33,7 +33,7 @@ void Example6::Render()
     
     for (int i = 0; i < n; ++i) {
         glPushMatrix(); // Guardar la matriz actual
-        glTranslatef(i * 1, 0.0f, 0.0f); // Mover a la posición deseada
+        glTranslatef(((GLfloat)(i * 1.0f)), 0.0f, 0.0f); // Mover a la posición deseada
         glCallList(idDisplayList); // Usar el display list para renderizar el cuadrado
         glPopMatrix(); // Restaurar la matriz original
     }

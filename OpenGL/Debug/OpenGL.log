@@ -6,6 +6,18 @@
   Cubo.cpp
   DirectionalLight.cpp
   Esfera.cpp
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(53,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(53,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(53,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(54,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(54,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(54,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(55,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(55,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(55,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(56,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(56,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Esfera.cpp(56,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   Example.cpp
   Example1.cpp
   Example2.cpp
@@ -14,18 +26,18 @@
   Example5.cpp
   Example6.cpp
   Example7.cpp
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(83,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(83,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(83,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(84,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(84,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(84,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(85,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(85,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(85,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(86,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(86,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(86,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(55,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(55,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(55,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(56,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(56,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(56,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(57,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(57,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(57,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(58,101): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(58,65): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Blade\Music\OpenGLFINAL\OpenGL-3\OpenGL\Example7.cpp(58,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   Figura.cpp
   Figura2D.cpp
   Figura3D.cpp

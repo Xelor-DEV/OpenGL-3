@@ -3,10 +3,10 @@
 Example7::Example7()
 {
     quad = new GLfloat[12]{
-        -1.0f, -1.0f, 0.0f,  // Esquina inferior izquierda
-        1.0f, -1.0f, 0.0f,   // Esquina inferior derecha
-        1.0f, 1.0f, 0.0f,    // Esquina superior derecha
-        -1.0f, 1.0f, 0.0f    // Esquina superior izquierda
+    -1.0f, -1.0f, 0.0f,  // Esquina inferior izquierda
+    1.0f, -1.0f, 0.0f,   // Esquina inferior derecha
+    1.0f, 1.0f, 0.0f,    // Esquina superior derecha
+    -1.0f, 1.0f, 0.0f    // Esquina superior izquierda
     };
     cube = new GLfloat[72]{
         // Frente
@@ -86,7 +86,6 @@ void Example7::Render()
 {
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-    
     // Dibuja el cubo utilizando los métodos genéricos
     drawWithVertexArray(cube, 24, GL_QUADS); // Vertex Array
     drawWithIndexedArray(cube, 24, GL_QUADS); // Indexed Array
@@ -105,7 +104,6 @@ void Example7::Render()
     drawWithVertexArray(pyramid, 18, GL_TRIANGLES); // Vertex Array
     drawWithIndexedArray(pyramid, 18, GL_TRIANGLES); // Indexed Array
     drawInstanced(pyramid, 18, GL_TRIANGLES, 1); // Instanced (1 instancia)
-    
 
     glFlush();
 }

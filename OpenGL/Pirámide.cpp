@@ -7,6 +7,39 @@ Pirámide::Pirámide(float baseLado, float h) : ladoBase(baseLado), altura(h)
     {
         tri[i] = new Triangulo(ladoBase, altura); // Usar new para crear triángulos
     }
+    vertices = new GLfloat[54]{
+        // Lado 1
+        0.0f,  altura,  0.0f,
+        -ladoBase / 2, 0.0f,  ladoBase / 2,
+        ladoBase / 2, 0.0f,  ladoBase / 2,
+
+        // Lado 2
+        0.0f,  altura,  0.0f,
+        ladoBase / 2, 0.0f,  ladoBase / 2,
+        ladoBase / 2, 0.0f, -ladoBase / 2,
+
+        // Lado 3
+        0.0f,  altura,  0.0f,
+        ladoBase / 2, 0.0f, -ladoBase / 2,
+        -ladoBase / 2, 0.0f, -ladoBase / 2,
+
+        // Lado 4
+        0.0f,  altura,  0.0f,
+        -ladoBase / 2, 0.0f, -ladoBase / 2,
+        -ladoBase / 2, 0.0f,  ladoBase / 2,
+
+        // Base - Triángulo 1
+        -ladoBase / 2, 0.0f,  ladoBase / 2,
+        ladoBase / 2, 0.0f,  ladoBase / 2,
+        ladoBase / 2, 0.0f, -ladoBase / 2,
+
+        // Base - Triángulo 2
+        -ladoBase / 2, 0.0f,  ladoBase / 2,
+        ladoBase / 2, 0.0f, -ladoBase / 2,
+        -ladoBase / 2, 0.0f, -ladoBase / 2
+    };
+	vertexCount = 18;
+	primitiveType = GL_TRIANGLES;
 }
 
 void Pirámide::init()

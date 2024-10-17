@@ -4,12 +4,22 @@
 #include <math.h>
 #include "Vector3.h"
 
+#include "Figura.h"
+#include "Cubo.h"
+#include "Pirámide.h"
+#include "Esfera.h"
+#include "Cuadrado.h"
+#include "Triangulo.h"
+#include "Circulo.h"
+
 class Example7 : public Example
 {
 	GLfloat* sphere;
 	GLfloat* quad;
 	GLfloat* pyramid;
 	GLfloat* cube;
+
+	Figura* figura;
 
 	GLfloat pi = 3.1415926535f;
 

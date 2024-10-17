@@ -7,40 +7,16 @@
       "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Circulo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Pir\u00E1mide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Pir\u00E1mide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Pir\u00E1mide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Pir\u00E1mide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Esfera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Esfera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Figura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,111 +25,20 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 232,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cuadrado.h",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Cuadrado.h",
-              "RelativeDocumentMoniker": "OpenGL\\Cuadrado.h",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Cuadrado.h",
-              "RelativeToolTip": "OpenGL\\Cuadrado.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T02:10:57.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pir\u00E1mide.cpp",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Pir\u00E1mide.cpp",
-              "RelativeDocumentMoniker": "OpenGL\\Pir\u00E1mide.cpp",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Pir\u00E1mide.cpp",
-              "RelativeToolTip": "OpenGL\\Pir\u00E1mide.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Figura.cpp",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Figura.cpp",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.cpp",
+              "RelativeToolTip": "OpenGL\\Figura.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T01:58:36.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pir\u00E1mide.h",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Pir\u00E1mide.h",
-              "RelativeDocumentMoniker": "OpenGL\\Pir\u00E1mide.h",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Pir\u00E1mide.h",
-              "RelativeToolTip": "OpenGL\\Pir\u00E1mide.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T01:58:20.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Esfera.h",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Esfera.h",
-              "RelativeDocumentMoniker": "OpenGL\\Esfera.h",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Esfera.h",
-              "RelativeToolTip": "OpenGL\\Esfera.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T01:53:26.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OpenGL.cpp",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\OpenGL.cpp",
-              "RelativeDocumentMoniker": "OpenGL\\OpenGL.cpp",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\OpenGL.cpp",
-              "RelativeToolTip": "OpenGL\\OpenGL.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T01:44:44.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Figura.h",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.h",
-              "RelativeDocumentMoniker": "OpenGL\\Figura.h",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.h",
-              "RelativeToolTip": "OpenGL\\Figura.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T02:48:57.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Example6.cpp",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example6.cpp",
-              "RelativeDocumentMoniker": "OpenGL\\Example6.cpp",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example6.cpp",
-              "RelativeToolTip": "OpenGL\\Example6.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T02:48:49.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Example7.h",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.h",
-              "RelativeDocumentMoniker": "OpenGL\\Example7.h",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.h",
-              "RelativeToolTip": "OpenGL\\Example7.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T01:38:00.018Z",
+              "WhenOpened": "2024-10-17T05:23:17.994Z",
               "EditorCaption": ""
             },
             {
@@ -164,22 +49,36 @@
               "RelativeDocumentMoniker": "OpenGL\\Example7.cpp",
               "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.cpp",
               "RelativeToolTip": "OpenGL\\Example7.cpp",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T01:00:59.562Z",
+              "WhenOpened": "2024-10-17T05:18:03.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Example5.cpp",
-              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example5.cpp",
-              "RelativeDocumentMoniker": "OpenGL\\Example5.cpp",
-              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example5.cpp",
-              "RelativeToolTip": "OpenGL\\Example5.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Circulo.h",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.h",
+              "RelativeDocumentMoniker": "OpenGL\\Circulo.h",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.h",
+              "RelativeToolTip": "OpenGL\\Circulo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T05:12:36.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circulo.cpp",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Circulo.cpp",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.cpp",
+              "RelativeToolTip": "OpenGL\\Circulo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T02:48:00.01Z"
+              "WhenOpened": "2024-10-17T05:12:53.024Z",
+              "EditorCaption": ""
             }
           ]
         }

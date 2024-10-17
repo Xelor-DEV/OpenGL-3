@@ -1,7 +1,32 @@
 #include "Circulo.h"
 #include <cmath>
 
-Circulo::Circulo(float r, int seg) : radio(r), segmentos(seg) {}
+Circulo::Circulo(float r, int seg) : radio(r), segmentos(seg) 
+{
+	GenerateVertex();
+    primitiveType = GL_TRIANGLE_FAN;
+}
+
+void Circulo::GenerateVertex() 
+{
+    // Creamos un array para los vértices
+    vertexCount = segmentos + 2; // +2 por el centro y el primer vértice duplicado para cerrar el círculo
+    vertices = new GLfloat[vertexCount * 3]; // 3 componentes por vértice (x, y, z)
+
+    // Centro del círculo
+    vertices[0] = 0.0f; // x
+    vertices[1] = 0.0f; // y
+    vertices[2] = 0.0f; // z
+
+    // Calculamos los vértices del círculo
+    for (int i = 0; i <= segmentos; ++i) { // <= segmentos para incluir el vértice final que cierra el círculo
+        float angle = 2.0f * pi * i / segmentos; // Calculamos el ángulo
+        vertices[(i + 1) * 3] = radio * cos(angle); // x
+        vertices[(i + 1) * 3 + 1] = radio * sin(angle); // y
+        vertices[(i + 1) * 3 + 2] = 0.0f; // z
+    }
+
+}
 
 void Circulo::Draw() {
 

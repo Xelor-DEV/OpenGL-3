@@ -2,7 +2,14 @@
 
 Cuadrado::Cuadrado(float l) : lado(l)
 {
-
+    vertices = new GLfloat[12]{
+        -lado / 2, -lado / 2, 0.0f,  // Esquina inferior izquierda
+         lado / 2, -lado / 2, 0.0f,  // Esquina inferior derecha
+         lado / 2,  lado / 2, 0.0f,  // Esquina superior derecha
+        -lado / 2,  lado / 2, 0.0f   // Esquina superior izquierda
+    };
+	vertexCount = 4;
+	primitiveType = GL_QUADS;
 }
 
 void Cuadrado::Draw()

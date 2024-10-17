@@ -6,6 +6,40 @@ Cubo::Cubo(float l) : lado(l)
     {
         cuad[i] = new Cuadrado(lado);
     }
+    vertices = new GLfloat[72]{
+        // Frente
+        -lado / 2, -lado / 2,  lado / 2,
+         lado / 2, -lado / 2,  lado / 2,
+         lado / 2,  lado / 2,  lado / 2,
+        -lado / 2,  lado / 2,  lado / 2,
+        // Atrás
+        -lado / 2, -lado / 2, -lado / 2,
+        -lado / 2,  lado / 2, -lado / 2,
+         lado / 2,  lado / 2, -lado / 2,
+         lado / 2, -lado / 2, -lado / 2,
+         // Izquierda
+         -lado / 2, -lado / 2, -lado / 2,
+         -lado / 2, -lado / 2,  lado / 2,
+         -lado / 2,  lado / 2,  lado / 2,
+         -lado / 2,  lado / 2, -lado / 2,
+         // Derecha
+          lado / 2, -lado / 2, -lado / 2,
+          lado / 2,  lado / 2, -lado / 2,
+          lado / 2,  lado / 2,  lado / 2,
+          lado / 2, -lado / 2,  lado / 2,
+          // Arriba
+          -lado / 2,  lado / 2,  lado / 2,
+           lado / 2,  lado / 2,  lado / 2,
+           lado / 2,  lado / 2, -lado / 2,
+          -lado / 2,  lado / 2, -lado / 2,
+          // Abajo
+          -lado / 2, -lado / 2,  lado / 2,
+          -lado / 2, -lado / 2, -lado / 2,
+           lado / 2, -lado / 2, -lado / 2,
+           lado / 2, -lado / 2,  lado / 2
+    };
+	vertexCount = 24;
+	primitiveType = GL_QUADS;
 }
 
 void Cubo::Draw()

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\SpotLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\SpotLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\DirectionalLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\DirectionalLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\PointLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\PointLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Esfera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Esfera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Circulo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Example7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7955D704-FF0A-4834-8232-86B00813B857}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 232,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointLight.cpp",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\PointLight.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\PointLight.cpp",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\PointLight.cpp",
+              "RelativeToolTip": "OpenGL\\PointLight.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T04:35:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectionalLight.cpp",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\DirectionalLight.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\DirectionalLight.cpp",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\DirectionalLight.cpp",
+              "RelativeToolTip": "OpenGL\\DirectionalLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T04:35:32.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpotLight.cpp",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\SpotLight.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\SpotLight.cpp",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\SpotLight.cpp",
+              "RelativeToolTip": "OpenGL\\SpotLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T04:34:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Esfera.cpp",
+              "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Esfera.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Esfera.cpp",
+              "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Esfera.cpp",
+              "RelativeToolTip": "OpenGL\\Esfera.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwHoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T04:08:45.332Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -36,27 +104,27 @@
               "RelativeDocumentMoniker": "OpenGL\\Figura.cpp",
               "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Figura.cpp",
               "RelativeToolTip": "OpenGL\\Figura.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwF0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T05:23:17.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Example7.cpp",
               "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.cpp",
               "RelativeDocumentMoniker": "OpenGL\\Example7.cpp",
               "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Example7.cpp",
               "RelativeToolTip": "OpenGL\\Example7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T05:18:03.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Circulo.h",
               "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.h",
               "RelativeDocumentMoniker": "OpenGL\\Circulo.h",
@@ -69,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Circulo.cpp",
               "DocumentMoniker": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.cpp",
               "RelativeDocumentMoniker": "OpenGL\\Circulo.cpp",
               "ToolTip": "C:\\Users\\Blade\\Music\\OpenGLFINAL\\OpenGL-3\\OpenGL\\Circulo.cpp",
               "RelativeToolTip": "OpenGL\\Circulo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-17T05:12:53.024Z",
               "EditorCaption": ""

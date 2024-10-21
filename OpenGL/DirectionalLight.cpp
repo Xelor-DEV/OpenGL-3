@@ -10,5 +10,5 @@ void DirectionalLight::apply(int lightIndex) {
 
 DirectionalLight::DirectionalLight(GLfloat ambient[4], GLfloat diffuse[4], GLfloat specular[4], GLfloat direction[4])
     : Light(ambient, diffuse, specular, direction) {
-    positionDirection[3] = 0.0f; // 0 para DirectionalLight
+    positionDirection[3] = 0.0f; // Establecer en 0.0f indica que es una luz direccional (se usa la dirección, no la posición)
 }

@@ -72,6 +72,7 @@ Example7::Example7()
         -1.0f, -1.0f, -1.0f
     };
     sphereVertex = 400;
+	figura = new Triangulo(2,2);
 }
 
 void Example7::init()
@@ -86,7 +87,8 @@ void Example7::Render()
 {
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-    // Dibuja el cubo utilizando los métodos genéricos
+    /*
+     // Dibuja el cubo utilizando los métodos genéricos
     drawWithVertexArray(cube, 24, GL_QUADS); // Vertex Array
     drawWithIndexedArray(cube, 24, GL_QUADS); // Indexed Array
     drawInstanced(cube, 24, GL_QUADS, 1); // Instanced (1 instancia)
@@ -103,7 +105,9 @@ void Example7::Render()
     // Dibuja la pirámide utilizando los métodos genéricos
     drawWithVertexArray(pyramid, 18, GL_TRIANGLES); // Vertex Array
     drawWithIndexedArray(pyramid, 18, GL_TRIANGLES); // Indexed Array
-    drawInstanced(pyramid, 18, GL_TRIANGLES, 1); // Instanced (1 instancia)
+    drawInstanced(pyramid, 18, GL_TRIANGLES, 1); // Instanced (1 instancia)   
+    */
+    figura->VertexArrayIndexed();
 
     glFlush();
 }

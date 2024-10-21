@@ -16,5 +16,6 @@ SpotLight::SpotLight(GLfloat ambient[4], GLfloat diffuse[4], GLfloat specular[4]
     for (int i = 0; i < 3; i++) {
         this->direction[i] = direction[i];
     }
-    positionDirection[3] = 1.0f; // 1 para SpotLight
+    positionDirection[3] = 1.0f; /// Establecer en 1.0f indica que es una luz spot (se usa la posición en el espacio)
 }
+

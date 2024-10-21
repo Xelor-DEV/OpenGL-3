@@ -10,5 +10,5 @@ void PointLight::apply(int lightIndex) {
 
 PointLight::PointLight(GLfloat ambient[4], GLfloat diffuse[4], GLfloat specular[4], GLfloat position[4])
     : Light(ambient, diffuse, specular, position) {
-    positionDirection[3] = 1.0f; // 1 para PointLight
+    positionDirection[3] = 1.0f; // Establecer en 1.0f indica que es una luz puntual (se usa la posición en el espacio)
 }

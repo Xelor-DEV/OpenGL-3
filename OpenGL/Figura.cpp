@@ -67,14 +67,18 @@ void Figura::VertexArrayIndexed()
 
     if (primitiveType == GL_QUADS) {
         // Calcular índices para quads
+        // Asegurarse de que el número de índices sea un múltiplo de 4
         indexCount = (vertexCount / 4) * 4;  // 4 vértices por cada quad
         indices = new GLuint[indexCount];
 
-        for (int i = 0, j = 0; i < indexCount; i += 4, j += 4) {
-            indices[i] = j;
-            indices[i + 1] = j + 1;
-            indices[i + 2] = j + 2;
-            indices[i + 3] = j + 3;
+        // Llenar el array de índices con las posiciones de los vértices
+        int j = 0; // Declarar j fuera del bucle
+        for (int i = 0; i < indexCount; i += 4) {
+            indices[i] = j;         // Primer vértice del quad
+            indices[i + 1] = j + 1; // Segundo vértice del quad
+            indices[i + 2] = j + 2; // Tercer vértice del quad
+            indices[i + 3] = j + 3; // Cuarto vértice del quad
+            j += 4; // Incrementar j en 4 para la siguiente iteración
         }
     }
     else if (primitiveType == GL_TRIANGLES) {
@@ -82,11 +86,25 @@ void Figura::VertexArrayIndexed()
         indexCount = (vertexCount / 3) * 3;  // 3 vértices por cada triángulo
         indices = new GLuint[indexCount];
 
-        for (int i = 0, j = 0; i < indexCount; i += 3, j += 3) {
-            indices[i] = j;
-            indices[i + 1] = j + 1;
-            indices[i + 2] = j + 2;
+        int j = 0; // Declarar j fuera del bucle
+        for (int i = 0; i < indexCount; i += 3) {
+            indices[i] = j;         // Primer vértice
+            indices[i + 1] = j + 1; // Segundo vértice
+            indices[i + 2] = j + 2; // Tercer vértice
+            j += 3; // Incrementar j después de usarlo
         }
+    }
+    else if (primitiveType == GL_TRIANGLE_FAN) {
+        // Calcular índices para GL_TRIANGLE_FAN
+        indexCount = vertexCount - 1; // Excluimos el centro para los índices
+        indices = new GLuint[indexCount];
+
+        int j = 1; // Comenzar en 1 para saltar el centro
+        for (int i = 0; i < indexCount; ++i) {
+            indices[i] = j; // Usamos el vértice correspondiente
+            j++; // Incrementar j
+        }
+        indices[indexCount - 1] = 1; // Para cerrar el fan, el último índice apunta al primer vértice
     }
     else {
         return;
